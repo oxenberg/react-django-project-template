@@ -7,7 +7,10 @@ export default class App extends Component {
   }
 
   render() {
-    return (<h1>Hi</h1>);
+    return (<h1 class=" mx-8 text-sky-400 inline-block align-middle">
+        Test React
+        </h1>
+        );
   }
 }
 
